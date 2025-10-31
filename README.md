@@ -12,7 +12,7 @@
 ### 📱 Mobile Automation:
 ![Appium](https://img.shields.io/badge/Appium-472A91?style=for-the-badge&logo=appium&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![ADB](https://img.shields.io/badge/ADB-999999?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### 🪟 Desktop Automation:
 ![WinAppDriver](https://img.shields.io/badge/WinAppDriver-0078D7?style=for-the-badge&logo=windows&logoColor=white)
