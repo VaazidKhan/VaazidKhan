@@ -42,7 +42,7 @@
 
 ### 📱 Mobile Automation
 - 🤖 **Appium + Java** – Automating Android apps with native, hybrid, and mobile web testing capabilities.  
-- 📱 **UIAutomator2 / Espresso Drivers** – Leveraging Android-specific drivers for reliable testing.  
+- 📱 **UIAutomator2 / XCUITEST ** – Leveraging Android/IOS - specific drivers for reliable testing.  
 - 🔗 **Parallel Execution** – Running tests across multiple devices and emulators.
 
 ### 🪟 Desktop Automation
@@ -72,7 +72,6 @@
 - 🌍 Continuous Integration with Jenkins, Azure DevOps, and Maven for full lifecycle automation.
 
 ---
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VaazidKhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
