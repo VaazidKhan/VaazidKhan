@@ -33,6 +33,47 @@
 
 ---
 
+# 🧩 Frameworks I Work With:
+
+### 🌐 Web Automation
+- 🧪 **Selenium WebDriver** – Building scalable and reusable test frameworks for web UI automation using Java and TestNG.  
+- ⚙️ **Maven** – Managing dependencies and project builds efficiently.  
+- 📊 **Extent Reports / Allure** – Generating detailed and interactive execution reports.
+
+### 📱 Mobile Automation
+- 🤖 **Appium + Java** – Automating Android apps with native, hybrid, and mobile web testing capabilities.  
+- 📱 **UIAutomator2 / Espresso Drivers** – Leveraging Android-specific drivers for reliable testing.  
+- 🔗 **Parallel Execution** – Running tests across multiple devices and emulators.
+
+### 🪟 Desktop Automation
+- 🪟 **WinAppDriver** – Automating Windows desktop applications built on UWP or classic Windows apps.  
+- 💠 **Winium** – Automating older desktop apps that do not support WinAppDriver.  
+- 🧰 **Hybrid Framework Setup** – Integrating desktop automation with web and API tests under one Maven project.
+
+### 🌐 API Automation
+- 🔥 **Rest Assured** – Validating RESTful APIs using Java with JSON schema validation.  
+- 💡 **Postman** – Designing, documenting, and manually verifying API endpoints before automation.  
+- 🧾 **Swagger / OpenAPI** – Understanding and automating based on API documentation.
+
+### 🗄️ Database Testing
+- 🧮 **MySQL / MS SQL Server** – Performing backend validation for UI and API test cases.  
+- 🧠 **JDBC Connections** – Writing Java queries to verify data consistency post API or UI actions.
+
+### ☁️ CI/CD Integration
+- ⚙️ **Jenkins Pipelines** – Automating test execution post-deployment builds.  
+- 🪣 **Azure DevOps** – Tracking builds, test cases, and bug creation automatically from test results.  
+- 🔄 **Git / GitHub / SVN** – Version control and seamless collaboration in automation teams.
+
+---
+
+# 🧠 Highlights:
+- 🚀 End-to-End Automation Expertise across Web, Mobile, Desktop, and API platforms.  
+- 🧩 Modular Framework Design with page object pattern, reusable libraries, and configuration-driven execution.  
+- 🌍 Continuous Integration with Jenkins, Azure DevOps, and Maven for full lifecycle automation.
+
+---
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VaazidKhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VaazidKhan&theme=dark&hide_border=false)<br/>
